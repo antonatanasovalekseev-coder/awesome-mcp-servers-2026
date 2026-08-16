@@ -31,6 +31,7 @@ As AI agents like Claude Code, Cursor, and Codex transition from simple autocomp
 
 #### 🌐 Browser Automation & Testing
 *   **[Puppeteer MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer)** - Excellent for allowing agents to autonomously navigate the web, test UIs, and scrape dynamic pages.
+*   **[Agent QA](https://github.com/vostride/agent-qa)** - FSL-1.1-ALv2 source-available MCP harness for defining, validating, running, and triaging natural-language web and mobile tests.
 *   **[Brave Search MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)** - High-quality web search API optimized for LLMs. Perfect for RAG.
 *   **[Fetch MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** - Basic HTTP/REST API interactions without a heavy browser overhead.
 
