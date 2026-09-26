@@ -40,6 +40,7 @@ As AI agents like Claude Code, Cursor, and Codex transition from simple autocomp
 *   **[Figma MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/figma)** - For design-to-code workflows. Extract CSS tokens and layout structures.
 *   **[Notion MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/notion)** - Connects your company's wiki directly into your coding agent's context window.
 *   **[Confluence MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/confluence)** - Enterprise knowledge base integration.
+*   **[Statsnet MCP](https://github.com/usenetstate/statsnet-mcp)** - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp`.
 
 #### 🧠 Agentic Memory & Utilities
 *   **[Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** - Knowledge graph-based persistent memory for AI models.
