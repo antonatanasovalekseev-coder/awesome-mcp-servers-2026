@@ -42,6 +42,7 @@ As AI agents like Claude Code, Cursor, and Codex transition from simple autocomp
 *   **[Confluence MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/confluence)** - Enterprise knowledge base integration.
 
 #### 🧠 Agentic Memory & Utilities
+*   **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 *   **[Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** - Knowledge graph-based persistent memory for AI models.
 *   **[Time MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/time)** - Give models an accurate sense of local time and timezone manipulation.
 *   **[Sequential Thinking MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)** - Forces models into rigorous step-by-step logic loops for complex debugging.
